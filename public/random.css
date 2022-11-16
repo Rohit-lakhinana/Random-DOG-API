@@ -1,0 +1,18 @@
+#image {
+    border: 2px solid black;
+    height: 400px;
+    width: 400px;
+  } 
+  h2{
+    font-weight: bolder;
+    font-size: xx-large;
+  } 
+  
+  button {
+    border-radius: 9px;
+    background-color: rgb(144, 142, 142);
+    color: white;
+    padding: 5px;
+    font-weight: bolder;
+    font-size: larger;
+  }
